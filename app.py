@@ -747,3 +747,4 @@ with col2:
         "<p class='footer-text' style='text-align: center;'>© 2026 Economic AI Analytics Platform</p>",
         unsafe_allow_html=True
     )
+
